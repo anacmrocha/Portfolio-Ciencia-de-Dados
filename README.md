@@ -4,7 +4,7 @@
 
 Algo sobre mim
 
-# Projetos
+## Projetos
 
 # Análise Exploratória de Dados
 
